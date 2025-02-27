@@ -1,5 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub account.
 
+- I am Abinas. I have 8 Years of professional exeperince in full stack development.
 - Expertise in React.js, Next.js, and modern JavaScript, building dynamic, responsive, and user-friendly interfaces.
 - Proficient in Node.js and Express.js, developing robust, scalable, and high-performance server-side applications with a strong focus on Test-Driven Development (TDD).
 - Experienced in SQL and NoSQL databases ensuring efficient data management, optimization, and scalability.
