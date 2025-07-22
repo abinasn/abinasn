@@ -5,7 +5,6 @@
 - Proficient in Node.js and Express.js, developing robust, scalable, and high-performance server-side applications with a strong focus on Test-Driven Development (TDD).
 - Experienced in SQL and NoSQL databases ensuring efficient data management, optimization, and scalability.
 - Moderate amount of experience in CI/CD, Docker, and cloud platforms like AWS, Vercel, and Firebase for seamless application deployment.
-- Demonstrated success as an individual contributor, technical lead, and team lead, with a strong ability to mentor, guide teams, and solve complex problems effectively.
 <!--
 **abinasn/abinasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
